@@ -1,0 +1,4 @@
+SEED=dignity sell system judge wagon thank quote critic behind salt execute crop rocket better dinosaur key rib first club romance chalk lens exercise maple
+TONAPI_TOKEN=AG626HNKHD7JYRYAAAAGGSFAJXTR4RXA7SRH5YZJUS75ETNB42QWJ6TETUEX6PN5CY4CDOY
+TARGET_ADDRESS=UQDSqn9yp7Qfwyq1YmcDeNmtTnDWOfHOmMXn6JtibMbOWqVs
+
